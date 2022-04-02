@@ -13,10 +13,10 @@ Please click "作弊抓耙仔(Cheating Battle).exe" in Cheating_Battle/Release(f
 Rules of the game:
 ![image](https://github.com/chiawen0104/Cheating_Battle/blob/main/Cheating_Battle/Source/Picture/rule.png)
 Tips: 
-1. Notice the actions of teacher carefully.
-2. Press the button consecutively to get higher scores.
-3. Raise hands to set the opponent up at the right time.
+1. Notice the teacher's action carefully.
+2. Press down the button consecutively to get higher scores.
+3. Raise hands to trap the opponent at the right time.
 
 
-If you want to learn more about this game, you can watch demo video:
+If you want to learn more about this game, you can watch this demo video:
 https://youtu.be/Yt1_8lWRjXs.

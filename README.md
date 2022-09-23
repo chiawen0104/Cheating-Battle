@@ -3,9 +3,7 @@ We are a team consists of one student from NTU ECON and two students from NTU MA
 The game "作弊抓耙仔" was coded by c++ with SDL package. 
 
 The executable files are in Cheating_Battle/Release and source code is in Cheating_Battle/Source.  
-
-If you want to learn more about this game, you can watch this demo video:
-https://youtu.be/Yt1_8lWRjXs.
+If you want to learn more about this game, you can watch this demo video: https://youtu.be/Yt1_8lWRjXs.
 
 
 # Play the game!
